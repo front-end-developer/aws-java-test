@@ -1,0 +1,1 @@
+# Getting started testing Java with AWS deployment
